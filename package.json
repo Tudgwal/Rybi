@@ -1,0 +1,17 @@
+{
+  "name": "rybi",
+  "version": "1.0.0",
+  "description": "Rybi, the bot who evolve as fast as its  creator's skills.",
+  "main": "main.js",
+  "author": "Tudgwal",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "youtube-mp3-downloader": "^0.6.5"
+  }
+}

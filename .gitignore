@@ -1,4 +1,4 @@
-nodes_modules/*
+nodes_module/*
 .vs/*
 .env
 package-lock.json
